@@ -48,6 +48,7 @@
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
+    <option name="INDENT_CASE_FROM_SWITCH" value="false" />
     <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
     <option name="SPACE_AROUND_EQUALITY_OPERATORS" value="false" />
     <option name="SPACE_AROUND_RELATIONAL_OPERATORS" value="false" />
