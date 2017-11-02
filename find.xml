@@ -19,11 +19,11 @@
       <mask>*,.h</mask>
       <mask>*,.</mask>
       <mask>*,</mask>
-      <mask>*</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.cp</mask>
       <mask>*.cpp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
     </recentFileMasks>
   </component>
 </application>
