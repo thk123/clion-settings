@@ -13,6 +13,7 @@
     <option name="FUNCTION_CALL_ARGUMENTS_NEW_LINE_AFTER_LPAR" value="true" />
     <option name="TAG_PREFIX_OF_BLOCK_COMMENT" value="BACK_SLASH" />
     <option name="INTRODUCE_CONST_VARS" value="true" />
+    <option name="INTRODUCE_CONST_PARAMS" value="true" />
   </Objective-C>
   <Objective-C-extensions>
     <option name="TAG_PREFIX_OF_BLOCK_COMMENT" value="BACK_SLASH" />
