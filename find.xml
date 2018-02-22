@@ -1,13 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.h, *.cpp" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.cpp, *.h" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -34,7 +31,10 @@
       <mask>*</mask>
       <mask>*.cp</mask>
       <mask>*.cpp</mask>
-      <mask>*.h, *.cpp</mask>
+      <mask>*.cpp,</mask>
+      <mask>*.cpp, *</mask>
+      <mask>*.cpp, *.</mask>
+      <mask>*.cpp, *.h</mask>
     </recentFileMasks>
   </component>
 </application>
