@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.class;*.creator*;*.d;*.hprof;*.inc;*.o;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CBMC.config;CBMC.files;CBMC.includes;CVS;Makefile;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="java" type="Native" />
+      <mapping ext="class" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
