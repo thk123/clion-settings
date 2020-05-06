@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.h,*.cpp" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -30,5 +31,6 @@
     <mask>*.c</mask>
     <mask>*.cpp,*.h</mask>
     <mask>Makefile</mask>
+    <mask>*.h,*.cpp</mask>
   </component>
 </application>
