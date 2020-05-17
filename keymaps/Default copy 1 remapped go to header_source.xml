@@ -1,7 +1,10 @@
-<keymap version="1" name="Default copy 1" parent="Default for XWin">
+<keymap version="1" name="Default copy 1 remapped go to header/source" parent="Default for XWin">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CIDR.Lang.SwitchHeaderSource">
+    <keyboard-shortcut first-keystroke="ctrl alt home" />
   </action>
   <action id="CMake.ReloadCMakeProject">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -15,6 +18,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoRelated" />
   <action id="NextTab" />
   <action id="PreviousTab" />
   <action id="ReformatCode">
