@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.h,*.cpp" />
+    <option name="FILE_MASK" value="CMakelists.txt" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -35,5 +35,6 @@
     <mask>Makefile</mask>
     <mask>*.md</mask>
     <mask>*.h,*.cpp</mask>
+    <mask>CMakelists.txt</mask>
   </component>
 </application>
